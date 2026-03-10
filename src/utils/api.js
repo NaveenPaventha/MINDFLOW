@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'https://mindflow-e4mz.onrender.com';
+const API_URL = 'https://mindflow-e4mz.onrender.com/api';
 
 // Create Axios Instance
 const api = axios.create({
